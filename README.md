@@ -16,7 +16,7 @@ This project demonstrates how to:
 
 ## 🖼️ Preview
 
-![screenshot](https://via.placeholder.com/300x200.png?text=Color+Changer+App)
+![screenshot](./screenshot.png)
 
 ## 📌 Future Improvements
 
